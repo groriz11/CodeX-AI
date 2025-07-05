@@ -44,7 +44,6 @@ CodexAI is a lightweight and minimalistic AI chatbot platform designed for speed
 > — *brotherguns5624 [PS4™]*
 
 > "CodexAI is a sleek and minimalistic AI platform... Great UX, fast replies, solid for everyday use."  
-> — *ChatGPT*
 
 ---
 
