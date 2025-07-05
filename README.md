@@ -1,4 +1,4 @@
-# 🤖 CodexAI
+# 🤖 CodexAI - all updates in the realeses
 
 CodexAI is a lightweight and minimalistic AI chatbot platform designed for speed, clarity, and ease of use. Whether you're brainstorming ideas, writing short texts, or just looking to chat with an AI assistant, CodexAI keeps things simple and efficient.
 
